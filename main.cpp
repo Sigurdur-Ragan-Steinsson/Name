@@ -8,6 +8,6 @@ string Name(string First_Name,string Last_Name){
 }
 
 int main() {
-  string first = "Diddi", last = "Ragan";
+  string first = "Oliver", last = "Smith";
   cout << Name(first, last);
 } 
